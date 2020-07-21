@@ -224,7 +224,7 @@ html, body {
 
 .hero .col-md-6:first-child {
     position: absolute;
-    top: 42%;
+    top: 13%;
     
     left: 0;
     right: 0;
@@ -232,12 +232,12 @@ html, body {
     margin: auto;
     text-align: center;
 
-    transform: translateY(-50%);
+    /* transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
     -o-transform: translateY(-50%);
-    z-index: 2;
+    z-index: 2; */
 }
 
 .hero .col-md-6:last-child {
