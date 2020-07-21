@@ -264,9 +264,14 @@ html, body {
     line-height: 1;
 } 
 
-.img-me {
+.img-lines {
+    margin: 15px 0 40px;
+}
 
-    margin: 10px;
+.img-me {
+    /* position: relative;
+    top: 30px; */
+    margin: 20px;
     border-radius: 25px;
     /* width: 300px;
     height: 270px; */
@@ -298,12 +303,7 @@ html, body {
     text-transform: uppercase;
 }
 
-.img-lines {
-    margin: 15px 0 40px;
-    position: absolute;
-    
 
-}
 
 .site-section p {
     margin-bottom: 35px;
