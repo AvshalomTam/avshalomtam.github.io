@@ -222,17 +222,14 @@ html, body {
     height: 100%;
 }
 
-.hero .col-md-6:first-child {
+.hero .col-md-6 {
     position: absolute;
     top: 13%;
-    
+    bottom: 0;
     left: 0;
     right: 0;
-
-    margin: auto;
     text-align: center;
-    bottom: 0;
-
+    margin: auto;
     /* transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
@@ -279,7 +276,7 @@ html, body {
 
     /* border: 20px solid #73AD21; */
     /* border: 10px solid #888888;  */
-    border: 10px solid #888888; 
+    border: 10px solid #140d0d; 
     padding: 10px;
     /* max-width: 100%;
     max-height: 100%; */
