@@ -260,6 +260,14 @@ html, body {
     height: 100%;
 }
 
+.ONE {
+    margin-top: auto;
+    font-size: 80px;
+    font-weight: 500;
+    color: #fff;
+    
+}
+
 .hero .col-md-6 {
     position: absolute;
     top: 18%;
